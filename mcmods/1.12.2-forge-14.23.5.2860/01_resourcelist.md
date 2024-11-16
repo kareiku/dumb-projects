@@ -6,6 +6,7 @@
 | Mod           | Just Enough Items (JEI)              | https://www.curseforge.com/minecraft/mc-mods/jei                     |
 | Mod           | LLibrary                             | https://www.curseforge.com/minecraft/mc-mods/llibrary                |
 | Mod           | Mantle                               | https://www.curseforge.com/minecraft/mc-mods/mantle                  |
+| Mod           | MoreCommands                         | https://www.curseforge.com/minecraft/mc-mods/morecommands            |
 | Mod           | Quick Leaf Decay                     | https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay        |
 | Mod           | Tinkers  Construct                   | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct       |
 | Mod           | Tinkers' Tool Leveling               | https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling   |
