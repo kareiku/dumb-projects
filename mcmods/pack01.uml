@@ -27,8 +27,9 @@ LLibrary <-- Wings
 CTM <.> CTP
 Wings <. wings
 
-note botton of items.cfg
-set all\nvalues to 0
+note bottom of items.cfg
+set all
+values to 0
 end note
 
 @enduml
