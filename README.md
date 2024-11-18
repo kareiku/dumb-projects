@@ -2,6 +2,7 @@
 ## Project List
 `autoclicker`: an autoclicker for Windows OS, written in C.
 <br>`minecraft`: lists and diagrams for mods and other resources.
+<br>`scripts`: some scripts for the Bourne-Again SHell.
 <br>`terraria`: lists and diagrams for mods and other resources.
 <br>`zelda`: BotW and TotK emulation and modding.
 ## External Resources
