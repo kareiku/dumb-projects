@@ -2,18 +2,14 @@
 |---------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Mod           | Armourer's Workshop                  | https://www.curseforge.com/minecraft/mc-mods/armourers-workshop<br>https://modrinth.com/mod/armourers-workshop                 |
 | Mod           | ConnectedTexturesMod                 | https://www.curseforge.com/minecraft/mc-mods/ctm                                                                               |
-| Mod           | e4mc                                 | https://www.curseforge.com/minecraft/mc-mods/e4mc \n https://modrinth.com/mod/e4mc                                             |
+| Mod           | e4mc                                 | https://www.curseforge.com/minecraft/mc-mods/e4mc<br>https://modrinth.com/mod/e4mc                                             |
 | Mod           | Inventory Sorter                     | https://www.curseforge.com/minecraft/mc-mods/inventory-sorter                                                                  |
-| Mod           | Just Enough Items (JEI)              | https://www.curseforge.com/minecraft/mc-mods/jei                                                                               |
-|               |                                      | https://modrinth.com/mod/jei                                                                                                   |
+| Mod           | Just Enough Items (JEI)              | https://www.curseforge.com/minecraft/mc-mods/jei<br>https://modrinth.com/mod/jei                                               |
 | Mod           | LLibrary                             | https://www.curseforge.com/minecraft/mc-mods/llibrary                                                                          |
-| Mod           | Mantle                               | https://www.curseforge.com/minecraft/mc-mods/mantle                                                                            |
-|               |                                      | https://modrinth.com/mod/mantle                                                                                                |
-| Mod           | MoreCommands                         | https://www.curseforge.com/minecraft/mc-mods/morecommands                                                                      |
-|               |                                      | https://modrinth.com/mod/morecommands                                                                                          |
+| Mod           | Mantle                               | https://www.curseforge.com/minecraft/mc-mods/mantle<br>https://modrinth.com/mod/mantle                                         |
+| Mod           | MoreCommands                         | https://www.curseforge.com/minecraft/mc-mods/morecommands<br>https://modrinth.com/mod/morecommands                             |
 | Mod           | Quick Leaf Decay                     | https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay                                                                  |
-| Mod           | Tinkers  Construct                   | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct                                                                 |
-|               |                                      | https://modrinth.com/mod/tinkers-construct                                                                                     |
+| Mod           | Tinkers  Construct                   | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct<br>https://modrinth.com/mod/tinkers-construct                   |
 | Mod           | Tinkers' Tool Leveling               | https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling                                                             |
 | Mod           | TrashSlot                            | https://www.curseforge.com/minecraft/mc-mods/trashslot                                                                         |
 |               |                                      | https://modrinth.com/mod/trashslot                                                                                             |
