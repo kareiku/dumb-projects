@@ -31,8 +31,8 @@
 |               |                                      | https://modrinth.com/mod/waystones                                         |
 | Mod           | Biomes O' Plenty                     | https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty               |
 |               |                                      | https://modrinth.com/mod/biomes-o-plenty                                   |
-| Mod           | GeologymodwhichnameIcan'tfind        |                                                                            |
-|               |                                      |                                                                            |
+| Mod           | Underground Biomes                   | https://www.curseforge.com/minecraft/mc-mods/underground-biomes            |
+|               |                                      | https://modrinth.com/mod/underground-biomes                                |
 | Mod           | MrCrayfish's Gun Mod                 | https://mrcrayfish.com/mods/cgm                                            |
 | Mod           | MrCrayfish's Vehicle Mod             | https://mrcrayfish.com/mods/vehicle                                        |
 | Mod           | Obfuscate                            | https://mrcrayfish.com/mods/obfuscate                                      |
