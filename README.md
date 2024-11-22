@@ -1,5 +1,5 @@
-# Dumb Repo
-## Resources
+# Random Repo
+## Thingies
 `autoclicker`: an autoclicker for Windows OS, written in C.
 <br>`bash`: some bash utilities, like scripts and functions.
 <br>`minecraft`: lists and diagrams for mods and other resources.
