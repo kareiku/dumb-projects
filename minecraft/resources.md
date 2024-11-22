@@ -11,22 +11,16 @@
 | Mod           | Quick Leaf Decay                     | https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay                                                                  |
 | Mod           | Tinkers  Construct                   | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct<br>https://modrinth.com/mod/tinkers-construct                   |
 | Mod           | Tinkers' Tool Leveling               | https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling                                                             |
-| Mod           | TrashSlot                            | https://www.curseforge.com/minecraft/mc-mods/trashslot                                                                         |
-|               |                                      | https://modrinth.com/mod/trashslot                                                                                             |
+| Mod           | TrashSlot                            | https://www.curseforge.com/minecraft/mc-mods/trashslot<br>https://modrinth.com/mod/trashslot                                   |
 | Mod           | Wings                                | https://www.curseforge.com/minecraft/mc-mods/wings                                                                             |
 | Mod           | Hooked                               | https://www.curseforge.com/minecraft/mc-mods/hooked                                                                            |
 | Mod           | No Recipe Book                       | https://www.curseforge.com/minecraft/mc-mods/no-recipe-book                                                                    |
 | Mod           | Polymorph                            | https://modrinth.com/mod/polymorph                                                                                             |
-| Mod           | Xaero's Minimap                      | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap                                                                    |
-|               |                                      | https://modrinth.com/mod/xaeros-minimap                                                                                        |
-| Mod           | Xaero's World Map                    | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map                                                                  |
-|               |                                      | https://modrinth.com/mod/xaeros-world-map                                                                                      |
-| Mod           | Waystones                            | https://www.curseforge.com/minecraft/mc-mods/waystones                                                                         |
-|               |                                      | https://modrinth.com/mod/waystones                                                                                             |
-| Mod           | Biomes O' Plenty                     | https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty                                                                   |
-|               |                                      | https://modrinth.com/mod/biomes-o-plenty                                                                                       |
-| Mod           | Underground Biomes                   | https://www.curseforge.com/minecraft/mc-mods/underground-biomes                                                                |
-|               |                                      | https://modrinth.com/mod/underground-biomes                                                                                    |
+| Mod           | Xaero's Minimap                      | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap<br>https://modrinth.com/mod/xaeros-minimap                         |
+| Mod           | Xaero's World Map                    | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map<br>https://modrinth.com/mod/xaeros-world-map                     |
+| Mod           | Waystones                            | https://www.curseforge.com/minecraft/mc-mods/waystones<br>https://modrinth.com/mod/waystones                                   |
+| Mod           | Biomes O' Plenty                     | https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty<br>https://modrinth.com/mod/biomes-o-plenty                       |
+| Mod           | Underground Biomes                   | https://www.curseforge.com/minecraft/mc-mods/underground-biomes<br>https://modrinth.com/mod/underground-biomes                 |
 | Mod           | MrCrayfish's Gun Mod                 | https://mrcrayfish.com/mods/cgm                                                                                                |
 | Mod           | MrCrayfish's Vehicle Mod             | https://mrcrayfish.com/mods/vehicle                                                                                            |
 | Mod           | Obfuscate                            | https://mrcrayfish.com/mods/obfuscate                                                                                          |
