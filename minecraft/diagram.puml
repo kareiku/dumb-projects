@@ -23,9 +23,9 @@ package .minecraft {
     }
 }
 
-LLibrary <-- Wings
-CTM <.> CTP
-Wings <. wings
+LLibrary <.. Wings
+CTM <... CTP
+Wings <-- wings
 
 note bottom of items.cfg
 set all
