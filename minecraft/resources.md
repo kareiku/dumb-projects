@@ -24,23 +24,14 @@
 | Mod           | MrCrayfish's Gun Mod                 | https://mrcrayfish.com/mods/cgm                                                                                                |
 | Mod           | MrCrayfish's Vehicle Mod             | https://mrcrayfish.com/mods/vehicle                                                                                            |
 | Mod           | Obfuscate                            | https://mrcrayfish.com/mods/obfuscate                                                                                          |
-| Mod           | Splatcraft                           | https://www.curseforge.com/minecraft/mc-mods/splatcraft                                                                        |
-|               |                                      | https://modrinth.com/mod/splatcraft                                                                                            |
-| Mod           | Hex Lands                            | https://www.curseforge.com/minecraft/mc-mods/hex-lands                                                                         |
-|               |                                      | https://modrinth.com/mod/hexlands                                                                                              |
+| Mod           | Splatcraft                           | https://www.curseforge.com/minecraft/mc-mods/splatcraft<br>https://modrinth.com/mod/splatcraft                                 |
+| Mod           | Hex Lands                            | https://www.curseforge.com/minecraft/mc-mods/hex-lands<br>https://modrinth.com/mod/hexlands                                    |
 | Mod           | Electroblob's Wizardry               | https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry                                                             |
-| Mod           | Enchanting Plus                      | https://www.curseforge.com/minecraft/mc-mods/enchanting-plus                                                                   |
-|               |                                      | https://modrinth.com/mod/enchanting-plus                                                                                       |
-| Mod           | Enchantment Descriptions             | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions                                                          |
-|               |                                      | https://modrinth.com/mod/enchantment-descriptions                                                                              |
-| Mod           | ElevatorMod                          | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator                                                               |
-|               |                                      | https://modrinth.com/mod/elevatormod                                                                                           |
-| Mod           | Camera Mod                           | https://www.curseforge.com/minecraft/mc-mods/camera-mod                                                                        |
-|               |                                      | https://modrinth.com/mod/camera-mod                                                                                            |
-| Mod           | copygirl's Wearable Backpacks        | https://www.curseforge.com/minecraft/mc-mods/wearable-backpacks                                                                |
-|               |                                      | https://modrinth.com/mod/wearablebackpacks                                                                                     |
-| Mod           | Traveler's Backpack                  | https://www.curseforge.com/minecraft/mc-mods/travelers-backpack                                                                |
-|               |                                      | https://modrinth.com/mod/travelersbackpack                                                                                     |
-| Mod           | Useful Backpacks                     | https://www.curseforge.com/minecraft/mc-mods/useful-backpacks                                                                  |
-|               |                                      | https://modrinth.com/mod/useful-backpacks                                                                                      |
+| Mod           | Enchanting Plus                      | https://www.curseforge.com/minecraft/mc-mods/enchanting-plus<br>https://modrinth.com/mod/enchanting-plus                       |
+| Mod           | Enchantment Descriptions             | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions<br>https://modrinth.com/mod/enchantment-descriptions     |
+| Mod           | ElevatorMod                          | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator<br>https://modrinth.com/mod/elevatormod                       |
+| Mod           | Camera Mod                           | https://www.curseforge.com/minecraft/mc-mods/camera-mod<br>https://modrinth.com/mod/camera-mod                                 |
+| Mod           | copygirl's Wearable Backpacks        | https://www.curseforge.com/minecraft/mc-mods/wearable-backpacks<br>https://modrinth.com/mod/wearablebackpacks                  |
+| Mod           | Traveler's Backpack                  | https://www.curseforge.com/minecraft/mc-mods/travelers-backpack<br>https://modrinth.com/mod/travelersbackpack                  |
+| Mod           | Useful Backpacks                     | https://www.curseforge.com/minecraft/mc-mods/useful-backpacks<br>https://modrinth.com/mod/useful-backpacks                     |
 | Resource Pack | The Official Connected Textures Pack | https://www.curseforge.com/minecraft/texture-packs/ctp                                                                         |
