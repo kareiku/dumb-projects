@@ -8,8 +8,8 @@
 | Mod           | e4mc                                 | https://www.curseforge.com/minecraft/mc-mods/e4mc<br>https://modrinth.com/mod/e4mc                                             |
 | Mod           | Electroblob's Wizardry               | https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry                                                             |
 | Mod           | ElevatorMod                          | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator<br>https://modrinth.com/mod/elevatormod                       |
-| Mod           | Enchantment Descriptions             | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions<br>https://modrinth.com/mod/enchantment-descriptions     |
 | Mod           | Enchanting Plus                      | https://www.curseforge.com/minecraft/mc-mods/enchanting-plus<br>https://modrinth.com/mod/enchanting-plus                       |
+| Mod           | Enchantment Descriptions             | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions<br>https://modrinth.com/mod/enchantment-descriptions     |
 | Mod           | Hex Lands                            | https://www.curseforge.com/minecraft/mc-mods/hex-lands<br>https://modrinth.com/mod/hexlands                                    |
 | Mod           | Hooked                               | https://www.curseforge.com/minecraft/mc-mods/hooked                                                                            |
 | Mod           | Inventory Sorter                     | https://www.curseforge.com/minecraft/mc-mods/inventory-sorter                                                                  |
