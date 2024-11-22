@@ -1,7 +1,7 @@
 | Resource Type | Resource                             | Sources                                                                    |
 |---------------|--------------------------------------|----------------------------------------------------------------------------|
-| Mod           | Armourer's Workshop                  | https://www.curseforge.com/minecraft/mc-mods/armourers-workshop            |
-|               |                                      | https://modrinth.com/mod/armourers-workshop                                |
+| Mod           | Armourer's Workshop                  | https://www.curseforge.com/minecraft/mc-mods/armourers-workshop\n           
+                                                         https://modrinth.com/mod/armourers-workshop                                |
 | Mod           | ConnectedTexturesMod                 | https://www.curseforge.com/minecraft/mc-mods/ctm                           |
 | Mod           | e4mc                                 | https://www.curseforge.com/minecraft/mc-mods/e4mc                          |
 |               |                                      | https://modrinth.com/mod/e4mc                                              |
