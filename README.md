@@ -1,9 +1,10 @@
-# My Dumb Projects
-## Project List
+# Dumb Repo
+## Resources
 `autoclicker`: an autoclicker for Windows OS, written in C.
 <br>`bash`: some bash utilities, like scripts and functions.
 <br>`minecraft`: lists and diagrams for mods and other resources.
 <br>`terraria`: lists and diagrams for mods and other resources.
+<br>`the-rest`: pretty self explanatory.
 <br>`zelda`: BotW and TotK emulation and modding.
 ## External Resources
 [Virtual-Key Codes](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)

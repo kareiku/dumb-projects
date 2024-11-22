@@ -1,7 +1,7 @@
 | Resource Type | Resource                             | Version | Sources                                                              |
 |---------------|--------------------------------------|---------|----------------------------------------------------------------------|
 | Mod           | Armourer's Workshop                  | 1.12.2+ | https://www.curseforge.com/minecraft/mc-mods/armourers-workshop      |
-|               |                                      |         | https://modrinth.com/mod/armourers-workshop
+|               |                                      |         | https://modrinth.com/mod/armourers-workshop                          |
 | Mod           | ConnectedTexturesMod                 | 1.12.2+ | https://www.curseforge.com/minecraft/mc-mods/ctm                     |
 | Mod           | e4mc                                 | 1.17+   | https://modrinth.com/mod/e4mc                                        |
 | Mod           | Inventory Sorter                     | 1.12.2  | https://www.curseforge.com/minecraft/mc-mods/inventory-sorter        |
