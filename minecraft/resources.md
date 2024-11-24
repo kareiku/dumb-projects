@@ -1,15 +1,24 @@
 | Resource Type | Resource                              | Sources                                                                                                                       |
 |---------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Mod (untried) | AmbientSounds                         | https://www.curseforge.com/minecraft/mc-mods/ambientsounds
+<br>https://modrinth.com/mod/ambientsounds                          |
+| Mod           | AppleSkin                             | https://www.curseforge.com/minecraft/mc-mods/appleskin<br>https://modrinth.com/mod/appleskin                                  |
 | Mod           | Armourer's Workshop                   | https://www.curseforge.com/minecraft/mc-mods/armourers-workshop<br>https://modrinth.com/mod/armourers-workshop                |
 | Mod           | Biomes O' Plenty                      | https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty<br>https://modrinth.com/mod/biomes-o-plenty                      |
+| Mod           | Block Armor                           | https://www.curseforge.com/minecraft/mc-mods/block-armor                                                                      |
+| Mod (tried?)  | Borderless Mining                     | https://www.curseforge.com/minecraft/mc-mods/borderless-mining<br>https://modrinth.com/mod/borderless-mining                  |
 | Mod           | Camera Mod                            | https://www.curseforge.com/minecraft/mc-mods/camera-mod<br>https://modrinth.com/mod/camera-mod                                |
+| Mod           | Clumps                                | https://www.curseforge.com/minecraft/mc-mods/clumps<br>https://modrinth.com/mod/clumps                                        |
 | Mod           | ConnectedTexturesMod                  | https://www.curseforge.com/minecraft/mc-mods/ctm                                                                              |
+| Mod           | Cosmetic Armor Reworked               | https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked                                                          |
 | Mod           | copygirl's Wearable Backpacks         | https://www.curseforge.com/minecraft/mc-mods/wearable-backpacks<br>https://modrinth.com/mod/wearablebackpacks                 |
 | Mod           | e4mc                                  | https://www.curseforge.com/minecraft/mc-mods/e4mc<br>https://modrinth.com/mod/e4mc                                            |
 | Mod           | Electroblob's Wizardry                | https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry                                                            |
 | Mod           | ElevatorMod                           | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator<br>https://modrinth.com/mod/elevatormod                      |
 | Mod           | Enchanting Plus                       | https://www.curseforge.com/minecraft/mc-mods/enchanting-plus<br>https://modrinth.com/mod/enchanting-plus                      |
 | Mod           | Enchantment Descriptions              | https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions<br>https://modrinth.com/mod/enchantment-descriptions    |
+| Mod (untried) | Entity Culling                        | https://www.curseforge.com/minecraft/mc-mods/entityculling<br>https://modrinth.com/mod/entityculling                          |
+| Mod (untried) | FancyMenu                             | https://www.curseforge.com/minecraft/mc-mods/fancymenu<br>https://modrinth.com/mod/fancymenu                                  |
 | Mod           | Hex Lands                             | https://www.curseforge.com/minecraft/mc-mods/hex-lands<br>https://modrinth.com/mod/hexlands                                   |
 | Mod           | Hooked                                | https://www.curseforge.com/minecraft/mc-mods/hooked                                                                           |
 | Mod           | Inventory Sorter                      | https://www.curseforge.com/minecraft/mc-mods/inventory-sorter                                                                 |
@@ -19,12 +28,15 @@
 | Mod           | Lucky Block                           | https://www.curseforge.com/minecraft/mc-mods/lucky-block                                                                      |
 | Mod           | Mantle                                | https://www.curseforge.com/minecraft/mc-mods/mantle<br>https://modrinth.com/mod/mantle                                        |
 | Mod           | MoreCommands                          | https://www.curseforge.com/minecraft/mc-mods/morecommands<br>https://modrinth.com/mod/morecommands                            |
+| Mod           | MrCrayfish's Furniture Mod            | https://mrcrayfish.com/mods/cfm                                                                                               |
 | Mod           | MrCrayfish's Gun Mod                  | https://mrcrayfish.com/mods/cgm                                                                                               |
 | Mod           | MrCrayfish's Vehicle Mod              | https://mrcrayfish.com/mods/vehicle                                                                                           |
 | Mod           | No Recipe Book                        | https://www.curseforge.com/minecraft/mc-mods/no-recipe-book                                                                   |
 | Mod           | Obfuscate                             | https://mrcrayfish.com/mods/obfuscate                                                                                         |
 | Mod           | Pixelmon                              | https://reforged.gg                                                                                                           |
 | Mod           | Polymorph                             | https://modrinth.com/mod/polymorph                                                                                            |
+| Mod           | Quark                                 | https://www.curseforge.com/minecraft/mc-mods/quark<br>https://modrinth.com/mod/quark                                          |
+| Mod (untried) | Quark Oddities                        | https://www.curseforge.com/minecraft/mc-mods/quark-oddities<br>https://modrinth.com/mod/quark-oddities                        |
 | Mod           | Quick Leaf Decay                      | https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay                                                                 |
 | Mod           | Splatcraft                            | https://www.curseforge.com/minecraft/mc-mods/splatcraft<br>https://modrinth.com/mod/splatcraft                                |
 | Mod           | Tinkers  Construct                    | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct<br>https://modrinth.com/mod/tinkers-construct                  |
