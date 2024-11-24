@@ -22,6 +22,7 @@
 | Mod           | MrCrayfish's Vehicle Mod              | https://mrcrayfish.com/mods/vehicle                                                                                           |
 | Mod           | No Recipe Book                        | https://www.curseforge.com/minecraft/mc-mods/no-recipe-book                                                                   |
 | Mod           | Obfuscate                             | https://mrcrayfish.com/mods/obfuscate                                                                                         |
+| Mod           | Pixelmon                              | https://reforged.gg                                                                                                           |
 | Mod           | Polymorph                             | https://modrinth.com/mod/polymorph                                                                                            |
 | Mod           | Quick Leaf Decay                      | https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay                                                                 |
 | Mod           | Splatcraft                            | https://www.curseforge.com/minecraft/mc-mods/splatcraft<br>https://modrinth.com/mod/splatcraft                                |
