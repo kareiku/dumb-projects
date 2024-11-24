@@ -1,7 +1,6 @@
 | Resource Type | Resource                              | Sources                                                                                                                       |
 |---------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Mod (untried) | AmbientSounds                         | https://www.curseforge.com/minecraft/mc-mods/ambientsounds
-<br>https://modrinth.com/mod/ambientsounds                          |
+| Mod (untried) | AmbientSounds                         | https://www.curseforge.com/minecraft/mc-mods/ambientsounds<br>https://modrinth.com/mod/ambientsounds                          |
 | Mod           | AppleSkin                             | https://www.curseforge.com/minecraft/mc-mods/appleskin<br>https://modrinth.com/mod/appleskin                                  |
 | Mod           | Armourer's Workshop                   | https://www.curseforge.com/minecraft/mc-mods/armourers-workshop<br>https://modrinth.com/mod/armourers-workshop                |
 | Mod           | Biomes O' Plenty                      | https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty<br>https://modrinth.com/mod/biomes-o-plenty                      |
