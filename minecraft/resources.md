@@ -75,3 +75,6 @@
 | Mod (untried) | Tinkers' Complement                   | https://www.curseforge.com/minecraft/mc-mods/tinkers-complement<br>https://modrinth.com/mod/tinkers-complement                |
 | Mod (untried) | Underground Jungle                    | https://www.curseforge.com/minecraft/mc-mods/underground-jungle<br>https://modrinth.com/mod/underground-jungle                |
 | Mod (untried) | Simple Voice Chat                     | https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat<br>https://modrinth.com/plugin/simple-voice-chat               |
+| Mod (tried?) | Advent Of Ascension | https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine<br>https://modrinth.com/mod/adventofascension
+| Mod (untried) | Ice and Fire | https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons<br>https://modrinth.com/mod/ice-and-fire-dragons
+| Mod (untried) | Simple Generators | https://www.curseforge.com/minecraft/mc-mods/simple-generators<br>https://modrinth.com/mod/simple-generators
