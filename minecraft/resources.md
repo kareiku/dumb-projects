@@ -16,6 +16,7 @@
 | Mod (untried) | Joy of Painting                       | https://www.curseforge.com/minecraft/mc-mods/joy-of-painting<br>https://modrinth.com/mod/joy-of-painting                      |
 | Mod           | Just Enough Items (JEI)               | https://www.curseforge.com/minecraft/mc-mods/jei<br>https://modrinth.com/mod/jei                                              |
 | Mod           | LLibrary                              | https://www.curseforge.com/minecraft/mc-mods/llibrary                                                                         |
+| Mod           | Lucky Block                           | https://www.curseforge.com/minecraft/mc-mods/lucky-block                                                                      |
 | Mod           | Mantle                                | https://www.curseforge.com/minecraft/mc-mods/mantle<br>https://modrinth.com/mod/mantle                                        |
 | Mod           | MoreCommands                          | https://www.curseforge.com/minecraft/mc-mods/morecommands<br>https://modrinth.com/mod/morecommands                            |
 | Mod           | MrCrayfish's Gun Mod                  | https://mrcrayfish.com/mods/cgm                                                                                               |
@@ -33,6 +34,7 @@
 | Mod           | Underground Biomes                    | https://www.curseforge.com/minecraft/mc-mods/underground-biomes<br>https://modrinth.com/mod/underground-biomes                |
 | Mod (untried) | Underground Jungle                    | https://www.curseforge.com/minecraft/mc-mods/underground-jungle<br>https://modrinth.com/mod/underground-jungle                |
 | Mod           | Useful Backpacks                      | https://www.curseforge.com/minecraft/mc-mods/useful-backpacks<br>https://modrinth.com/mod/useful-backpacks                    |
+| Mod (untried) | Simple Voice Chat                     | https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat<br>https://modrinth.com/plugin/simple-voice-chat               |
 | Mod           | Waystones                             | https://www.curseforge.com/minecraft/mc-mods/waystones<br>https://modrinth.com/mod/waystones                                  |
 | Mod           | Wings                                 | https://www.curseforge.com/minecraft/mc-mods/wings                                                                            |
 | Mod           | Xaero's Minimap                       | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap<br>https://modrinth.com/mod/xaeros-minimap                        |
