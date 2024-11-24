@@ -37,6 +37,9 @@
 | Mod           | Quark                                 | https://www.curseforge.com/minecraft/mc-mods/quark<br>https://modrinth.com/mod/quark                                          |
 | Mod (untried) | Quark Oddities                        | https://www.curseforge.com/minecraft/mc-mods/quark-oddities<br>https://modrinth.com/mod/quark-oddities                        |
 | Mod           | Quick Leaf Decay                      | https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay                                                                 |
+| Mod           | ReplayMod                             | https://www.replaymod.com/<br>https://modrinth.com/mod/replaymod                                                              |
+| Mod           | Spartan Shields                       | https://www.curseforge.com/minecraft/mc-mods/spartan-shields<br>https://modrinth.com/mod/spartan-shields                      |
+| Mod           | Spartan Weaponry                      | https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry<br>https://modrinth.com/mod/spartan-weaponry                    |
 | Mod           | Splatcraft                            | https://www.curseforge.com/minecraft/mc-mods/splatcraft<br>https://modrinth.com/mod/splatcraft                                |
 | Mod           | Tinkers  Construct                    | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct<br>https://modrinth.com/mod/tinkers-construct                  |
 | Mod           | Tinkers' Tool Leveling                | https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling                                                            |
