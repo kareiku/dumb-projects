@@ -6,9 +6,12 @@
 <br>
 [![](https://img.shields.io/badge/Minecraft%20resource%20list-%23FCC705)](https://github.com/kareiku/misc/tree/main/minecraft/resources.md)
 <br>
-[![](https://img.shields.io/badge/Terraria%20mod%20list-%230C8A03)](https://github.com/kareiku/misc/tree/main/terraria/mods.md)
+[![](https://img.shields.io/badge/Terraria%20mod%20list-%2332A852)](https://github.com/kareiku/misc/tree/main/terraria/mods.md)
 ## External Resources
-[Virtual-Key Codes](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
-<br>[TheDestruc7i0n Custom Crafter](https://crafting.thedestruc7i0n.ca/)
-<br>[Cemu Guide](https://cemu.cfw.guide/)
-<br>[Google Search sorted by latest](https://cse.google.com/cse?cx=4416977100c5544ee)
+[![](https://img.shields.io/badge/Virtual-Key%20Codes-gray)](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
+<br>
+[![](https://img.shields.io/badge/TheDestruc7i0n%20Custom%20Crafter-black)](https://crafting.thedestruc7i0n.ca/)
+<br>
+[![](https://img.shields.io/badge/Cemu%20Guide-%234287F5)](https://cemu.cfw.guide/)
+<br>
+[![](https://img.shields.io/badge/Google%20Search%20sorted%20by%20last%20upload-%23EB4034)](https://cse.google.com/cse?cx=4416977100c5544ee)
