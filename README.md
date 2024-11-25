@@ -1,5 +1,5 @@
 # Misc
-# Resources
+## Resources
 [Minecraft configs](https://github.com/kareiku/misc/tree/main/minecraft/config)
 <br>
 [Minecraft custom datapacks](https://github.com/kareiku/misc/tree/main/minecraft/datapacks)
