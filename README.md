@@ -1,5 +1,5 @@
-# Random Repo
-## Thingies
+# Misc
+## Resources
 `autoclicker`: an autoclicker for Windows OS, written in C.
 <br>`bash`: some bash utilities, like scripts and functions.
 <br>`minecraft`: lists and diagrams for mods and other resources.
