@@ -1,3 +1,4 @@
+#!/bin/bash
 function git_quick_update {
     git add --all
     commit_message=${1:-"Empty commit"}
