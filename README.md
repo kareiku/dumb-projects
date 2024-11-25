@@ -15,3 +15,5 @@
 [![](https://img.shields.io/badge/Cemu%20Guide-%234287F5)](https://cemu.cfw.guide/)
 <br>
 [![](https://img.shields.io/badge/Google%20Search%20sorted%20by%20last%20upload-%23EB4034)](https://cse.google.com/cse?cx=4416977100c5544ee)
+<br>
+[![](https://img.shields.io/badge/USB%20Helper%20Installer-white)](https://github.com/FailedShack/USBHelperInstaller/releases)
