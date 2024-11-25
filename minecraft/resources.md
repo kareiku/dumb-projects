@@ -1,6 +1,6 @@
 |Resource|Downloads|To test|
 |-|-|-|
-|The Official Connected Textures Pack|[curseforge](https://www.curseforge.com/minecraft/texture-packs/ctp)||
+|The Official Connected Textures Pack|[curseforge](https://www.curseforge.com/minecraft/texture-packs/ctp)|
 |AppleSkin|[curseforge](https://www.curseforge.com/minecraft/mc-mods/appleskin) or [modrinth](https://modrinth.com/mod/appleskin)|
 |AtomicStryker's Battle Towers|[curseforge](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)|
 |Armourer's Workshop|[curseforge](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop) or [modrinth](https://modrinth.com/mod/armourers-workshop)|
@@ -60,21 +60,21 @@
 |Wings|[curseforge](https://www.curseforge.com/minecraft/mc-mods/wings)|
 |Xaero's Minimap|[curseforge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) or [modrinth](https://modrinth.com/mod/xaeros-minimap)|
 |Xaero's World Map|[curseforge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) or [modrinth](https://modrinth.com/mod/xaeros-world-map)|
-|Additional Structures|[curseforge](https://www.curseforge.com/minecraft/mc-mods/additional-structures) or [modrinth](https://modrinth.com/mod/additional-structures)|
-|AmbientSounds|[curseforge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) or [modrinth](https://modrinth.com/mod/ambientsounds)|
-|Borderless Mining|[curseforge](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) or [modrinth](https://modrinth.com/mod/borderless-mining)|
-|Botania|[curseforge](https://www.curseforge.com/minecraft/mc-mods/botania) or [modrinth](https://modrinth.com/mod/botania)|
-|Entity Culling|[curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling) or [modrinth](https://modrinth.com/mod/entityculling)|
-|FancyMenu|[curseforge](https://www.curseforge.com/minecraft/mc-mods/fancymenu) or [modrinth](https://modrinth.com/mod/fancymenu)|
-|Industrial Foregoing|[curseforge](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) or [modrinth](https://modrinth.com/mod/industrial-foregoing)|
-|Joy of Painting|[curseforge](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting) or [modrinth](https://modrinth.com/mod/joy-of-painting)|
-|Pick Up Notifier|[curseforge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) or [modrinth](https://modrinth.com/mod/pick-up-notifier)|
-|Quark Oddities|[curseforge](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) or [modrinth](https://modrinth.com/mod/quark-oddities)|
-|ReplayMod|[ReplayMod's Website](https://www.replaymod.com/) or [modrinth](https://modrinth.com/mod/replaymod)|
-|Screenshot Viewer|[curseforge](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer) or [modrinth](https://modrinth.com/mod/screenshot-viewer)|
-|Tinkers' Complement|[curseforge](https://www.curseforge.com/minecraft/mc-mods/tinkers-complement) or [modrinth](https://modrinth.com/mod/tinkers-complement)|
-|Underground Jungle|[curseforge](https://www.curseforge.com/minecraft/mc-mods/underground-jungle) or [modrinth](https://modrinth.com/mod/underground-jungle)|
-|Simple Voice Chat|[curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) or [modrinth](https://modrinth.com/plugin/simple-voice-chat)|
-|Advent Of Ascension|[curseforge](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine) or [modrinth](https://modrinth.com/mod/adventofascension)|
-|Ice and Fire|[curseforge](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) or [modrinth](https://modrinth.com/mod/ice-and-fire-dragons)|
-|Simple Generators|[curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-generators) or [modrinth](https://modrinth.com/mod/simple-generators)|
+|Additional Structures|[curseforge](https://www.curseforge.com/minecraft/mc-mods/additional-structures) or [modrinth](https://modrinth.com/mod/additional-structures)|yes|
+|AmbientSounds|[curseforge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) or [modrinth](https://modrinth.com/mod/ambientsounds)|yes|
+|Borderless Mining|[curseforge](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) or [modrinth](https://modrinth.com/mod/borderless-mining)|yes|
+|Botania|[curseforge](https://www.curseforge.com/minecraft/mc-mods/botania) or [modrinth](https://modrinth.com/mod/botania)|yes|
+|Entity Culling|[curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling) or [modrinth](https://modrinth.com/mod/entityculling)|yes|
+|FancyMenu|[curseforge](https://www.curseforge.com/minecraft/mc-mods/fancymenu) or [modrinth](https://modrinth.com/mod/fancymenu)|yes|
+|Industrial Foregoing|[curseforge](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) or [modrinth](https://modrinth.com/mod/industrial-foregoing)|yes|
+|Joy of Painting|[curseforge](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting) or [modrinth](https://modrinth.com/mod/joy-of-painting)|yes|
+|Pick Up Notifier|[curseforge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) or [modrinth](https://modrinth.com/mod/pick-up-notifier)|yes|
+|Quark Oddities|[curseforge](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) or [modrinth](https://modrinth.com/mod/quark-oddities)|yes|
+|ReplayMod|[ReplayMod's Website](https://www.replaymod.com/) or [modrinth](https://modrinth.com/mod/replaymod)|yes|
+|Screenshot Viewer|[curseforge](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer) or [modrinth](https://modrinth.com/mod/screenshot-viewer)|yes|
+|Tinkers' Complement|[curseforge](https://www.curseforge.com/minecraft/mc-mods/tinkers-complement) or [modrinth](https://modrinth.com/mod/tinkers-complement)|yes|
+|Underground Jungle|[curseforge](https://www.curseforge.com/minecraft/mc-mods/underground-jungle) or [modrinth](https://modrinth.com/mod/underground-jungle)|yes|
+|Simple Voice Chat|[curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) or [modrinth](https://modrinth.com/plugin/simple-voice-chat)|yes|
+|Advent Of Ascension|[curseforge](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine) or [modrinth](https://modrinth.com/mod/adventofascension)|yes|
+|Ice and Fire|[curseforge](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) or [modrinth](https://modrinth.com/mod/ice-and-fire-dragons)|yes|
+|Simple Generators|[curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-generators) or [modrinth](https://modrinth.com/mod/simple-generators)|yes|
