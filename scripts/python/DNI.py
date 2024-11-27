@@ -3,15 +3,36 @@ from random import randint
 
 ltrs = list("TRWAGMYFPDXBNJZSQVHLCKE")
 
-if len(argv) >= 2:
-    ltr = argv[1].upper()
-    if ltr not in ltrs:
-        exit(1)
-    else:
-        NIF = randint(0, pow(10, 8))
-        while not ltr == ltrs[NIF % len(ltrs)]:
-            NIF = randint(0, pow(10, 8))
-else:
-    NIF = randint(0, pow(10, 8))
+def getnum(ltr=None):
+    if ltr:
+        num = getnum()
+        ltr = getltr(num)
+        while ltr not in ltrs:
+            num = getnum()
+            ltr = getltr(ltr)
+        return num
+    return randint(0, 10**8 - 1)
 
-print(f"DNI: {NIF}{ltrs[int(NIF) % len(ltrs)]}")
+def getltr(num: int):
+    return ltrs[num % len(ltrs)]
+
+if len(argv) == 1:
+    num = getnum()
+    ltr = getltr(num)
+else:
+    try:
+        num = int(argv[1])
+        if num not in range(0, 10**8):
+            raise Exception
+        ltr = getltr(num)
+    except Exception:
+        try:
+            ltr = chr(ord(argv[1])).upper()
+            if ltr not in ltrs:
+                raise Exception
+            num = getnum(ltr)
+        except Exception:
+            print("Argument error.")
+            exit(1)
+
+print(f"{num:08d}{ltr}")
