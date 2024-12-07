@@ -17,3 +17,7 @@
 [![](https://img.shields.io/badge/Google%20Search%20sorted%20by%20last%20upload-%23EB4034)](https://cse.google.com/cse?cx=4416977100c5544ee)
 <br>
 [![](https://img.shields.io/badge/USB%20Helper%20Installer-white)](https://github.com/FailedShack/USBHelperInstaller/releases)
+<br>
+[![](https://img.shields.io/badge/MusicMap-brown)](https://musicmap.info)
+<br>
+[![](https://img.shields.io/badge/%34Sheets%34%20Resume%20Template-white)](https://sheetsresume.com/resume-template/)
