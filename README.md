@@ -18,6 +18,6 @@
 <br>
 [![](https://img.shields.io/badge/USB%20Helper%20Installer-white)](https://github.com/FailedShack/USBHelperInstaller/releases)
 <br>
-[![](https://img.shields.io/badge/MusicMap-brown)](https://musicmap.info)
+[![](https://img.shields.io/badge/MusicMap-%23F29BA7)](https://musicmap.info)
 <br>
-[![](https://img.shields.io/badge/%34Sheets%34%20Resume%20Template-white)](https://sheetsresume.com/resume-template/)
+[![](https://img.shields.io/badge/%22Sheets%22%20Resume%20Template-%239BBCF2)](https://sheetsresume.com/resume-template/)
