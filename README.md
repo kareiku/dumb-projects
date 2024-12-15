@@ -8,7 +8,7 @@
 <br>
 [![Static Badge](https://img.shields.io/badge/Terraria%20mod%20list-%2332A852)](https://github.com/kareiku/misc/tree/main/terraria/mods.md)
 ## External Resources
-[![Static Badge](https://img.shields.io/badge/Virtual-Key%20Codes-gray)](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
+[![Static Badge](https://img.shields.io/badge/Virtual%20Key%20Codes-gray)](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
 <br>
 [![Static Badge](https://img.shields.io/badge/TheDestruc7i0n%20Custom%20Crafter-black)](https://crafting.thedestruc7i0n.ca/)
 <br>
